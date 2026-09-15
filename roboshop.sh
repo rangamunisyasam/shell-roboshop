@@ -2,7 +2,7 @@
 
 SG_ID="sg-06792b416ce2ba7e1" # replace with your ID
 AMI_ID="ami-0220d79f3f480ecf5"
-ZONE_ID="Z05013202FKF0ZL12WAOP"
+ZONE_ID="Z08034721IJ7EAB02ELS5"
 DOMAIN_NAME="syasam.online"
 
 for instance in $@
